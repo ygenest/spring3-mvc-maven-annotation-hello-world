@@ -74,7 +74,11 @@
 					<wtpContextName>spring3</wtpContextName>
 				</configuration>
 			</plugin>
-
+            <plugin>
+                <groupId>org.wildfly.plugins</groupId>
+                <artifactId>wildfly-maven-plugin</artifactId>
+                <version>1.1.0.Alpha11</version>
+            </plugin>
 		</plugins>
 	</build>
 
