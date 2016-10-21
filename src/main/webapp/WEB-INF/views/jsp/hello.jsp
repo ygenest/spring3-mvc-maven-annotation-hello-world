@@ -55,7 +55,7 @@
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Heading-3</h2>
+		<h2>Heading-3a</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
